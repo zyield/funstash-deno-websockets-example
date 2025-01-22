@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net src/main.ts",
+    "watch": "deno run --watch --allow-net src/main.ts"
+  },
+  "imports": {},
+  "compilerOptions": {
+    "strict": true
+  }
+}
